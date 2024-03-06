@@ -1,4 +1,4 @@
-# chatbot
+# chatbot with Google Gemini API
 
 A new Flutter project.
 
